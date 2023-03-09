@@ -22,4 +22,3 @@ Here are some technologies I use at work:
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
 </p>
 
-<br/>
