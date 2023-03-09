@@ -9,6 +9,7 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Node js etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love cats.
+- ⚡ In love with science, tech, art and math (and also in cats and capybaras)
 
 
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> <em> colorful post-it notes lover</em></p>
