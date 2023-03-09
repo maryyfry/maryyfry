@@ -3,7 +3,7 @@
   
 
 <p align="center">
-  [<img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/>](https://i.gifer.com/1pM2.gif)
+  <img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/>](https://i.gifer.com/1pM2.gif)
 </p
 
 ## I'm a  frontend developer from Mexico City <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i><br><img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">
