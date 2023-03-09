@@ -1,5 +1,5 @@
 <h2 align="Center">   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Hi there I'm Carmen Rangel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p
   
 <p align="center">
 <img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/></p>
